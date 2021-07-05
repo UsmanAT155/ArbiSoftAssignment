@@ -1,0 +1,31 @@
+{
+  "Scenario 1":
+  {
+  "source": "Hartsfield-Jackson Atlanta International Airport",
+  "verifysource":"Hartsfield-Jackson",
+  "typedestination": "Paris Charl",
+  "clickdestination": "Charles de Gaulle",
+  "fromDate":"July 15, 2021",
+  "toDate":"August 15, 2021",
+  "verifyFromDate":"7/15",
+  "verifyToDate":"8/15" 
+
+},
+
+
+
+"Scenario 2":
+{
+"source": "Hartsfield-Jackson Atlanta International Airport",
+"verifysource":"Hartsfield-Jackson",
+"typedestination": "Heathrow London",
+"clickdestination": "Heathrow",
+"fromDate":"July 15, 2021",
+"toDate":"August 15, 2021",
+"verifyFromDate":"7/15",
+"verifyToDate":"8/15" 
+
+}
+
+
+}
